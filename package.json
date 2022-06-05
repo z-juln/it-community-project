@@ -1,0 +1,15 @@
+{
+  "name": "it-community-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "yarn dev1 & yarn dev2 & yarn dev3",
+    "dev1": "cd ./it-community && yarn dev",
+    "dev2": "cd ./it-community-manager && yarn dev",
+    "dev3": "cd ./it-community-server && yarn dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

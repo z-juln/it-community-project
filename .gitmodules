@@ -1,0 +1,9 @@
+[submodule "it-community"]
+	path = it-community
+	url = git@github.com:z-juln/it-community.git
+[submodule "it-community-manager"]
+	path = it-community-manager
+	url = git@github.com:z-juln/it-community-manager.git
+[submodule "it-community-server"]
+	path = it-community-server
+	url = git@github.com:z-juln/it-community-server.git
